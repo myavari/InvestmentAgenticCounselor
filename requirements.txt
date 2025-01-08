@@ -1,0 +1,2 @@
+openai>=0.27.8         # OpenAI library for GPT integration
+python-dotenv>=1.0.0   # For managing environment variables
